@@ -1,41 +1,48 @@
-<h1 align="center">Hi 👋, I'm Mindfly</h1>
-<h1>What is MINDFLY?</h1>
-MINDLFY is the muse of artist and athletes, an on-chain playground, liberating the human spirit from the ‘ invisible hand’, dismantling the monopoly, sharing the wealth of humanity with all, by prioritizing the interest of creators, athletes and their collectors & supporters.
-<h1>What is MINDFLY Metaverse?</h1>
-MINDFLY dedicates to build up decentralized platform, from early 2022, four metaverse galleries ( Australia, Europe, Aisa, USA etcs ) were invested and established in the plots at substrata.info, categorized as Art Zone and Sport Zone, to host events for worldwide artists and athletes, like Online art competition, Melbourne and Gold Coast art exhibition held in Australia in the year 2022.
+# We On Air: Unleashing the StoryFi Adventure
 
-The whole metaverse has been divided into 8888 court plots equally,  which would become utility to every MINDFLY NFT holders, offered to M-passport holders with other entitlement.
+## Project Overview
 
-<h1>Who is the MINDFLY Ambassador?</h1>
-The avatar  Bored Ape Yacht Club #1488 was appointed as ambassador of MINDFLY, his name is MIFEE.
-<h1>What is the MINDFLY M-Passport?</h1>
-The M-passport NFT is identity for Genesis citizen in MINDFLY, , the genesis platinum card would represent your level of participation and privilege in the community,  with  benefits from early NFT release to exclusive events, endless token and NFT airdrop and staking benefit, through web3 and real life.
-During the World Cup, MINDFLY would release 3,000 Genesis Mpassport NFT, helps NFT holders to breed their NFT meme in theme World CUP, across worldwide scenes, will fulfill your dream in Art+Sport DAO.
-<h1>What is MINDFLY World Cup?</h1>
-To facilitates transparent and fair collaboration between Art and Sport, build up equity in organizing and hosting World Cup, MINDFLY is rolling out World Cup theme NFT, which would have favorite memes in your NFT ( through wallet authentication), jumping into World Cup across different beautiful cities, upon Genesis Citizen M-passport minted, it is to strive for a freer and fairer mechanism,  in the World Cup election and hosting, by on-chain voting and constitution in DAO.
+### Introduction
 
-This ecosystem would be applied in other Sport and upcoming game soon.
-<h1>What is the ultilities in the collection of MINDFLY WORLD CUP?</h1>
-This aspires to the enthusiasts who love decentralization and fair voting to make the World Cup better.
-The MINDFLY World Cup will team up with  famous NFT holders ( like BAYC; MAYC; Cryptopunk; Azuki; Doodles; Clonex; Moonbird etc), to explore a world cup journey across different cities, in tailored national team soccer uniforms, in MINDFLY family, MIFEE and your NFT meme will live together, enjoy a free and fair life. Evey M-passport NFT has one chance to mint a customized NFT with their favorite soccer uniform, in a predestined charming city.  if you haven’t aforesaid NFT,  MINDFLY ambassador MIFEE ( BAYC#1488 ) will be your companion in your new minted NFT.
-This M-passport NFT holder would be assigned with a special role in the Art+Sport DAO and game, and eligible to be constitutor and committee in the upcoming MINDFLY World Cup, among different countries.
-MINDFLY World Cup  NFT holder would be offered with a unique treasure box in the scheme of staking, with privileged utilities, like token airdrop, staking income, printed artwork etc.
+Welcome to "We On Air: Unleashing the StoryFi Adventure," where the captivating world of Ki the Koala meets the cutting-edge innovation of StoryFi. This groundbreaking project blends the magic of storytelling and affiliate system with the power of decentralized technology and AI marketing to create an immersive and interactive experience like no other.
 
-<h1>Why join MINDFLY events and activities?</h1>
+### Concept
 
-Mindfly is a community, a platform, and an investment in your future. Bringing together the latest in Web3.0 technology whilst combining it with strong traditional Web2.0 presence, as well as real world experiences and events. With a unique metaverse investment strategy, we sit at the cutting edge of the Web3.0 frontier, with community events held to foster a strong decentralised community. In addition events in the real world, such as our upcoming Art Expo, and Yacht parties offer chances to meet fellow enthusiasts and share our vision with the world.
-<h1>How MINDFLY will help entrepreneurs and supporter community?</h1>
-MINDFLY team is a cluster of web3 specialist, we will customize the web3 solution to help local business to grow up bigger and wider.
+Join Ki the Koala and the world Weonair.ai, our brave-hearted explorers, on thrilling journeys through forests, across oceans, and even into space. With stunning meme friends together to boost ecosystem together, Supported by his loving family and loyal friends, Ki faces challenges, discovers new wonders, and learns valuable lessons inspired by his father, Kelvin, a brilliant scientist. With StoryFi, you can be part of Ki's world, interact with characters, influence the story, and contribute your own creative ideas, onchain and offchain. Everybody is winning while he is helping others, in the wonderland of WeonAir.ai.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mindfly_art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mindfly_art" height="30" width="40" /></a>
-<a href="https://fb.com/mindfly.art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mindfly.art" height="30" width="40" /></a>
-<a href="https://instagram.com/mindfly.art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mindfly.art" height="30" width="40" /></a>
-<a href="https://medium.com/@mindflyarts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mindflyarts" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mindfly art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mindfly art" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/mRv8bKdcHW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/mRv8bKdcHW" height="30" width="40" /></a>
-</p>
+### Community-Driven Platform
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+"We On Air" is more than just a tale of exploration; it's a community-driven onchain narrative where your participation shapes the journey. Through the unique platform ‘WeOnAir,’ everyone is welcome to join Ki’s adventures, helping his friends scale up, exploring new horizons, solving mysteries, and celebrating the spirit of adventure, onchain and offchain.
+
+## Weonair.ai Ecosystem
+
+### AI-Powered Collaboration
+
+In Weonair, cartoon characters and invited friends unlock an AI-powered ecosystem together, helping projects in the Ton blockchain, collaborating with others in mainstreaming chains (ETH etc) and the real world. Weonair.ai strives to be an AI-powered promotion stage for all real-world and on-chain businesses.
+
+### Why Weonair.ai
+
+#### Incentive System (Referral and Affiliate)
+
+Weonair.ai motivates users to participate in Ton projects through an incentive system. Invited subscribers can win diamond points, gold perks, and various airdrops from Weonair and affiliated projects through a referral and affiliate scoring system. All participants become participants and beneficiaries in the unique ecosystem.
+
+### Marketing Services
+
+Weonair.ai provides top-tier AI-powered marketing services for affiliate projects, helping them scale up through customized AI marketing strategies on both Ton and Ethereum etc blockchains and in the real world.
+
+### Target Audience
+
+Weonair targets Ton chain enthusiasts, especially those who love meme projects. It encourages participation through an incentive scoring system and a StoryFi ecosystem. Weonair also provides fascinating marketing services for real-world customers, bridging the gap between Ton and the mass market, in real life.
+
+## Objectives
+
+- Distribute diamond points to onboarding subscribers.
+- Co-contribute gold points with affiliate projects to those who subscribe through the Weonair ecosystem.
+- Establish a collaborative community with other TON projects.
+- Nurture meme culture through collaborative role-playing characters.
+- Connecting all real life business with Weonair.ai
+- Make characters in weonair become one of attractive avatars onchain and real world simultaneously.
+
+## Key Message
+
+Weonair helps people scale life and tokenize dreams, bridging the real world and the onchain ecosystem. It provides a window into the meme wonderland, where everyone can have equal opportunity to promote themselves. Ki the Koala is not just an explorer but a symbol of freedom, wisdom, knowledge, treasure, and love, one of the leading adventures in the Ton and cryptocurrency world. Weonair is also an AI marketing Swiss Army knife for onchain and offchain entrepreneurs, who like to escalate business in the real world and crypto world.
